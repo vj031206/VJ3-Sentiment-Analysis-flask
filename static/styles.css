@@ -1,0 +1,66 @@
+h1 {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+
+form {
+    text-align: center;
+}
+
+form textarea.form-control {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 15px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+}
+
+.result-box p, label {
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.slider-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 80%;
+}
+
+#sliders-container {
+    width: 50%;
+}
+
+#exampleFormControlTextarea1 {
+    border: 3px solid gray;
+    transition: border-color 0.3s ease;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+#sentiment-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+
+.range_slider {
+    height: 8px;
+    border-radius: 4px;
+    width: 100%;
+}
