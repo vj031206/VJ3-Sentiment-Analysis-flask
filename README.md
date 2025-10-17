@@ -14,12 +14,9 @@ A web application built with Python and Flask that provides real-time sentiment 
 
 -----
 
-## 📸 Screenshots
-
-| Main Interface | Analysis Results |
-| :---: |
-| <img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/836e83a0-5f54-4c42-9c51-ae2458c9e938" /> |
-
+## 📸 Screenshot
+ <img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/836e83a0-5f54-4c42-9c51-ae2458c9e938" /> 
+ 
 -----
 
 ## 🛠️ Tech Stack
